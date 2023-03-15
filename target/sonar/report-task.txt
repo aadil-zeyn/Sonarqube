@@ -1,0 +1,6 @@
+projectKey=USTBatchNo3:SonarqubeTest
+serverUrl=http://localhost:9000
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9000/dashboard?id=USTBatchNo3%3ASonarqubeTest
+ceTaskId=AYbkpCeaKjOJ7o-v0bYk
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYbkpCeaKjOJ7o-v0bYk

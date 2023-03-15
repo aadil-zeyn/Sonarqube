@@ -1,4 +1,4 @@
-package USTBatchNo3.SonarqubeTest;
+package ust.sonar;
 
 public class EmployeeDetails {
 	private String name;

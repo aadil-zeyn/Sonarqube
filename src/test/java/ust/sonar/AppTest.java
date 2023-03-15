@@ -1,4 +1,4 @@
-package USTBatchNo3.SonarqubeTest;
+package ust.sonar;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
